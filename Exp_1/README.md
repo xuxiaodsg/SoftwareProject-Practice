@@ -12,31 +12,40 @@ AS中文社区：https://developer.android.google.cn/studio
 下载后双击安装包进入安装
 
 ![image2.png](./image/2.png)
+
 点击 Next 进入下一个界面
 
 ![image3.png](./image/3.png)
+
 选择要安装的组件，笔者全选，点击 Next 进行下一步
 
 ![image4.png](./image/4.png)
+
 选择安装目录，强烈建议不要安装在 C:\Program Files\ 等需要较高权限的目录下。单击 Next
 
 ![image5.png](./image/5.png)
+
 这一步选择开始菜单文件夹，可以不管直接单击 Install 进入下一步
 
 ![image6.png](./image/6.png)
+
 等待安装完成，单击 Next
 
 ![image7.png](./image/7.png)
+
 单击 Finish 启动AS
 
 ![image8.png](./image/8.png)
+
 询问我们是否有配置文件导入，这里直接选择不导入，点击ok
 
 ![image9.png](./image/9.png)
+
 进入主界面点击next，弹出无法访问sdk，我们先点击cancel
 选择安装类型，点击第二个，点击next
 
 ![image10.png](./image/10.png)
+
 选择默认的jdk目录，一路next直到下载安装完成
 
 至此Android studio安装完成
@@ -48,6 +57,7 @@ AS中文社区：https://developer.android.google.cn/studio
 **使用pip命令安装**
 
 以管理员身份运行“命令提示符”
+
 ![image11.png](./image/11.png)
 
 安装Notebook
