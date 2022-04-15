@@ -5,7 +5,9 @@
 Android Studio（简称AS）是谷歌推出的一个Android集成开发工具，基于IntelliJ IDEA. 类似 Eclipse ADT，Android Studio 提供了集成的 Android 开发工具用于开发和调试。
 
 打开安卓官网，下载Android studio安装包
+
 AS官网：https://developer.android.google.cn/studio
+
 AS中文社区：https://developer.android.google.cn/studio
 ![image1.png](./image/1.png)
 
