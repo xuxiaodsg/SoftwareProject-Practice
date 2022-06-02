@@ -372,7 +372,7 @@ bin_sizes, _, _ = plt.hist(df.year[non_numberic_profits], bins=range(1955, 2006)
 ```
 
 
-![png](README.assets\output_21_0.png)
+![png](README.assets/output_21_0.png)
     
 
 
@@ -442,7 +442,7 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 ```
 
 
-![png](README.assets\output_31_0.png)
+![png](README.assets/output_31_0.png)
     
 
 
@@ -456,7 +456,7 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 ```
 
 
-![png](README.assets\output_33_0.png)
+![png](README.assets/output_33_0.png)
     
 
 
@@ -478,7 +478,7 @@ fig.tight_layout()
 ```
 
 
-![png](README.assets\output_35_0.png)
+![png](README.assets/output_35_0.png)
     
 
 
